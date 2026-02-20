@@ -118,17 +118,3 @@ _Figma file, Colours, Fonts ..._
       --project-clr-accent-tint: ;
     ```       
 
-<br>
-
-#### SOURCES
-_Sources used within this project_
-
-* For the images, credit goes to catalyststuff
-  * [Images by catalyststuff on Freepik](https://www.freepik.com/free-vector/boy-playing-basketball-cartoon-people-sport-icon-concept-isolated-flat-cartoon-style_10920751.htm#query=basketball&position=0&from_view=author)
-
-<br>
-
-#### CREDITS
-_Those who contributed to the project_
-
-* [Andre W. Coetzer](https://github.com/awcoetzer)
